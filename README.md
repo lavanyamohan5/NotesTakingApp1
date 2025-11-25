@@ -82,3 +82,6 @@ npm install
 ☁️ Sync notes with Firebase
 
 📱 Convert into a mobile app using React Native
+
+## 🌐 Live Demo  
+👉 https://simplenotetaking.netlify.app/
